@@ -75,3 +75,7 @@ LocalChat 是一個基於 Android 的即時聊天應用程式，允許使用者�
 - 部分路由器可能會阻擋多播封包
 - 建議在 WiFi 環境下使用
 - 需要允許應用使用所需權限
+
+```javascript copy
+const copyMe = true
+```
