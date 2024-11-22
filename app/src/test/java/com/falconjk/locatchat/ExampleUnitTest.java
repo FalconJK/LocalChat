@@ -1,4 +1,4 @@
-package com.falconjk.locatchat;
+package com.falconjk.LocalChat;
 
 import org.junit.Test;
 

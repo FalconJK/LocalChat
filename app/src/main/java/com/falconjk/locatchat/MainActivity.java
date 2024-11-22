@@ -1,4 +1,4 @@
-package com.falconjk.locatchat;
+package com.falconjk.LocalChat;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.RecyclerView;

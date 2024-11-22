@@ -1,4 +1,4 @@
-package com.falconjk.locatchat;
+package com.falconjk.LocalChat;
 
 import android.os.Handler;
 import android.os.Looper;

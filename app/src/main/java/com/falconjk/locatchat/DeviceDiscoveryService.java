@@ -1,4 +1,4 @@
-package com.falconjk.locatchat;
+package com.falconjk.LocalChat;
 
 import android.content.Context;
 import android.net.wifi.WifiManager;

@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.falconjk.locatchat'
+    namespace 'com.falconjk.LocalChat'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.falconjk.locatchat"
+        applicationId "com.falconjk.LocalChat"
         minSdk 31
         targetSdk 33
         versionCode 1
